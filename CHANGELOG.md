@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/EsunR/semantic-release-demo/compare/v1.0.0...v1.1.0) (2023-09-12)
+
+
+### Features
+
+* add reduce function ([d9bcbd2](https://github.com/EsunR/semantic-release-demo/commit/d9bcbd21659e4a6963dacd0790877f9dfaca5759))
+
 # 1.0.0 (2023-09-12)
 
 
